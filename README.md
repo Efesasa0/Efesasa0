@@ -6,4 +6,4 @@ I write in mostly python for AI and ML projects. The project building flow goes 
 4. Check out what people have already built if any.
 5. Start building **myself**.
 6. Complete documentation based on notes.
-7. Adios, maybe return next time.
+7. Adios, maybe I'll be back
